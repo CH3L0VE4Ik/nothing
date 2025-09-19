@@ -257,6 +257,7 @@ niwer
 nnnn n.
 no fire
 no fire $$$
+ok $$$
 ok now
 oli112
 oli12
