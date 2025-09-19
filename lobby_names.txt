@@ -179,6 +179,7 @@ build
 burger
 bus stop
 city map
+city map no destroy
 crcrcr233
 dako
 dddddrdrdrrdrdrd
