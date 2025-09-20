@@ -510,6 +510,7 @@ discord
 djdjdi
 do anything
 do it again I'm kicking you
+do not destroy my server
 don't destroy anything
 don't kill the players
 don't kill the players = kick
@@ -762,6 +763,7 @@ please come your welcome
 please join my server
 please login
 please venda
+plisss
 pls join
 pls join me
 pls joined
