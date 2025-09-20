@@ -247,6 +247,7 @@ build
 built in Castle
 burger
 bus stop
+car nuke
 city map
 city map no destroy
 crcrcr233
