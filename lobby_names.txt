@@ -656,6 +656,7 @@ djruidd
 do anything
 do it again I'm kicking you
 do not destroy my server
+do not join only my brother
 don't destroy anything
 don't kill the players
 don't kill the players = kick
