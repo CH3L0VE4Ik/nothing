@@ -254,6 +254,7 @@ bus stop
 car nuke
 city map
 city map no destroy
+cjyf
 crcrcr233
 dako
 dddddrdrdrrdrdrd
