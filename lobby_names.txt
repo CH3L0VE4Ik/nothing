@@ -565,6 +565,7 @@ Seagull
 Server that nobody join
 Servidor 24 hora
 Servidor 24 horas
+Sesrina
 Shadow Join
 Shadow and bolt
 Shreak
@@ -1050,6 +1051,7 @@ omar2020
 only friends
 only friends can Join
 only hackers
+only join if ur sigma
 only kixmel
 only my best friends can join
 only my friends
