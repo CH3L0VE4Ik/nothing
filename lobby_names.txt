@@ -230,6 +230,7 @@ Denis Daily server
 Desert Raid
 Desert brush
 Desruction
+Destroy everything
 Destroy the tiny store
 Destroy this building
 Destroying
