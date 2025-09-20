@@ -679,6 +679,7 @@ niter
 niui8
 niwer
 nnnn n.
+no entren
 no fire
 no fire $$$
 no sigma boy
