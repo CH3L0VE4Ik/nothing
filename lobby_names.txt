@@ -369,6 +369,7 @@ name1
 name2
 name3
 neqer
+nico
 nicolò
 nirer
 niter
