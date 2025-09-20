@@ -617,6 +617,7 @@ do not destroy my server
 don't destroy anything
 don't kill the players
 don't kill the players = kick
+don,t kill to much
 done
 donk
 dryhfx
