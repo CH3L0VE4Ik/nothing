@@ -650,6 +650,7 @@ caca mi
 capsula de rescate
 car nuke
 carro
+carss
 cctv
 city map
 city map no destroy
