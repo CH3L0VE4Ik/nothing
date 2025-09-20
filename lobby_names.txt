@@ -377,6 +377,7 @@ build SpongeBob house
 built in Castle
 burger
 bus stop
+caca mi
 car nuke
 city map
 city map no destroy
