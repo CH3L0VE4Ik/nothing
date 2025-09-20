@@ -541,6 +541,7 @@ bus stop
 bzdxvbgdgfgd
 caca mi
 car nuke
+carro
 cctv
 city map
 city map no destroy
