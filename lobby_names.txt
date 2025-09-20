@@ -28,6 +28,7 @@ $@$#*#&#*#*
 123 макс заходи
 1234
 12345
+123456
 123456789
 1234567890
 1234798i
@@ -517,6 +518,7 @@ bus stop
 bzdxvbgdgfgd
 caca mi
 car nuke
+cctv
 city map
 city map no destroy
 city roleplay
