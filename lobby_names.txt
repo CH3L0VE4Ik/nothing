@@ -1034,6 +1034,7 @@ nmsl
 nmsl78666
 nnnn n.
 nnnnn
+no destroy just live
 no entren
 no fire
 no fire $$$
