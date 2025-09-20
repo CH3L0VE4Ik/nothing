@@ -1002,6 +1002,7 @@ nasswrs
 ndfmsdl
 neqer
 nico
+nicolas
 nicolò
 nirer
 niter
