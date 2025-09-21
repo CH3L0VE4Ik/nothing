@@ -1317,6 +1317,7 @@ nuke
 nurse
 obby quit
 offce npc
+ogohsh
 oivy
 ok $$$
 ok jone
