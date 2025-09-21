@@ -1067,6 +1067,7 @@ no fire $$$
 no sigma boy
 no stupit
 normal destruction
+npc boom
 nsjssj
 nuke
 nurse
