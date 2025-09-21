@@ -1390,6 +1390,7 @@ no destroy just live
 no entren
 no fire
 no fire $$$
+no rules
 no sigma boy
 no stupit
 no tanks allowed
