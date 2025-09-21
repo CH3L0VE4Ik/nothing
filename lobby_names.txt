@@ -1074,6 +1074,7 @@ no sigma boy
 no stupit
 normal destruction
 npc boom
+npc error
 nsjssj
 nuke
 nurse
