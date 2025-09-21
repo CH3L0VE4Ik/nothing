@@ -244,6 +244,7 @@ $@$#*#&#*#*
 98хх
 9999
 99999
+:)
 <a>test</a>
 <color=aqua>Vex & $$$</color>
 <color=green>Join!</a>
