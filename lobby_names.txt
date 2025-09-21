@@ -1101,6 +1101,7 @@ desert war pvevp no teams
 destory
 destroy
 destroy buildings
+destroy market
 destroy the house
 dhfhhfeh
 dhhj
