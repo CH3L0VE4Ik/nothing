@@ -825,6 +825,7 @@ capsula de rescate
 car nuke
 carro
 carss
+cccc
 cctv
 city map
 city map no destroy
