@@ -852,6 +852,7 @@ carro
 carss
 cccc
 cctv
+cholo
 city map
 city map no destroy
 city roleplay
