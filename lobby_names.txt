@@ -1230,6 +1230,7 @@ do no join
 do not destroy my server
 do not join only my brother
 do what you want
+do whatever you want
 don't destroy anything
 don't kill the players
 don't kill the players = kick
