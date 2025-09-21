@@ -738,6 +738,7 @@ My kiosk
 My name is incorrect
 NASSERS
 NO STRANGERS
+NO rockets
 NPC JOIN ME
 Nathan
 New map
