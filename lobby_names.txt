@@ -1832,6 +1832,7 @@ read
 recep
 retret
 rgyd6
+rip
 roba un breinrrot
 ronaldo
 roto
