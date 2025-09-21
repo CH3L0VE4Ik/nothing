@@ -1474,6 +1474,7 @@ nsjssj
 nuke
 nurse
 obby quit
+obok
 offce npc
 ogohsh
 oivy
