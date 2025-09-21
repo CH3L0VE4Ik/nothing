@@ -1600,6 +1600,7 @@ nooo
 normal destruction
 npc boom
 npc error
+npc的错误
 npc继续疯狂
 nsjssj
 nuke
