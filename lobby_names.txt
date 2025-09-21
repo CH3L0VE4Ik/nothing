@@ -157,6 +157,7 @@ $@$#*#&#*#*
 98хх
 9999
 99999
+<color=aqua>Vex & $$$</color>
 <color=green>Join!</a>
 <color=lime>Flat Grass</color>
 <color=lime>JUST CHAOS</color>
