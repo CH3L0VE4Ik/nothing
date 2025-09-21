@@ -265,6 +265,7 @@ $@$#*#&#*#*
 <color=aqua>Vex & $$$</color>
 <color=green>Join!</a>
 <color=lime>Flat Grass</color>
+<color=lime>JOIN</color>!
 <color=lime>JUST CHAOS</color>
 <color=lime>talking</color>
 <color=red>hehe</color>
