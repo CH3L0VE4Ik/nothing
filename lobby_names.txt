@@ -1228,6 +1228,7 @@ dlack
 dmb....
 dndjs
 do anything
+do everything you want!
 do it again I'm kicking you
 do no join
 do not destroy my server
