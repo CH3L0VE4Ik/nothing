@@ -1098,6 +1098,7 @@ nooo
 normal destruction
 npc boom
 npc error
+npc继续疯狂
 nsjssj
 nuke
 nurse
