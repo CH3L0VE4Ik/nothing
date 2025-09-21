@@ -1140,6 +1140,7 @@ destroy
 destroy buildings
 destroy market
 destroy the house
+dfgu
 dhfhhfeh
 dhhj
 dima I timyr
