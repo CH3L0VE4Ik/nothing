@@ -1074,6 +1074,7 @@ no fire
 no fire $$$
 no sigma boy
 no stupit
+nooo
 normal destruction
 npc boom
 npc error
