@@ -1830,6 +1830,7 @@ no rules
 no sigma boy
 no stupit
 no tanks allowed
+nonono
 nooo
 normal destruction
 npc boom
