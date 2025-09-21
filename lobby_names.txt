@@ -1219,6 +1219,7 @@ pro pto jone
 probro
 put# Ronaldo
 putaaaaaaa
+puto el que lo lea
 pvp arena
 pvp me
 pvp pt 2
