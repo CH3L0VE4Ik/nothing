@@ -1138,6 +1138,7 @@ dmb....
 dndjs
 do anything
 do it again I'm kicking you
+do no join
 do not destroy my server
 do not join only my brother
 do what you want
