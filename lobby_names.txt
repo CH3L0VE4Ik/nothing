@@ -30,6 +30,7 @@ $@$#*#&#*#*
 0123456789
 04738277
 07 STOP ERROR
+07 STOP ERROR ERROR ERROR
 0967851234
 0987654002
 1 мировая
@@ -1714,6 +1715,7 @@ pyitoo
 qaaa
 qqjjajajajajajja
 qqqq
+qqqqqq
 qqwe
 qweiop
 qweqwe
